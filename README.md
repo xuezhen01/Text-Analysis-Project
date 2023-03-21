@@ -12,13 +12,13 @@ My code breaks the functionalities down to each function, where each function ca
 For my code dilemma, I was stuck between trying to sort the dictionary first based on the values in a step by step process, or using this one liner method (inline conditional statement) which i was not entirely sure about. After consulting chatGPT, i understood the use of inline conditional statements and the amount of space it could save - though it might not necessarily mean better coding practices. I further did research on how inline conditional statement works. 
 
 <img src="images/readme1.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
-<img src="readme2.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
-<img src="readme3.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
+<img src="images/readme2.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
+<img src="images/readme3.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 
 For Markov Text Synthesis, I made use of the Markov built in functions and ChatGPT to explain to me how it works and how I can implement it. 
-<img src="readme5.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
+<img src="images/readme5.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 I also encountered the problem where my synthesized output kept returning me none. I then consulted chatGPT to find out the reasons why markov text synthesis could be returning none. 
-<img src="readme4.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
+<img src="images/readme4.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 
 
 
@@ -30,7 +30,7 @@ In this project, I managed to obtain the top 10 most used terms in the text in a
     similarity = text_similarity(babson.content, school_page.content)
 
 For the Markov Text synthesis, i managed to generate 3 different sentences based on the wikipedia page that i was analysing. 
-<img src="readme6.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
+<img src="images/readme6.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 
 
 
