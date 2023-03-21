@@ -93,7 +93,7 @@ You can also access other properties of a page, such as its categories, sections
 
 ### Data Source: Twitter
 
-(**Note**: I have not tested this API since the announcment of shutting down free Twitter API. The free version of Twitter API has been deprecated and replaced with a new version that requires application approval and authentication with a paid subscription. To use the Twitter API, you need to apply to Twitter for a developer account and explain the purpose of what you are doing with the data, which Twitter will manually review.) 
+(**Note**: I have not tested this API since the announcement of shutting down free Twitter API. The free version of Twitter API has been deprecated and replaced with a new version that requires application approval and authentication with a paid subscription. To use the Twitter API, you need to apply to Twitter for a developer account and explain the purpose of what you are doing with the data, which Twitter will manually review.) 
 
 If you have access to a Twitter developer account and the necessary API keys and tokens, you can use the `tweepy` library to search for tweets.
 
