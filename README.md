@@ -15,7 +15,8 @@ For my code dilemma, I was stuck between trying to sort the dictionary first bas
 <img src="images/readme2.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 <img src="images/readme3.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 
-For Markov Text Synthesis, I made use of the Markov built in functions and ChatGPT to explain to me how it works and how I can implement it. 
+For Markov Text Synthesis, I made use of the Markov built in functions and ChatGPT to explain to me how it works and how I can implement it.
+ 
 <img src="images/readme5.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 
 I also encountered the problem where my synthesized output kept returning me none. I then consulted chatGPT to find out the reasons why markov text synthesis could be returning none. 
