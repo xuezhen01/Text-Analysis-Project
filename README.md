@@ -11,7 +11,7 @@ My code breaks the functionalities down to each function, where each function ca
 
 For my code dilemma, I was stuck between trying to sort the dictionary first based on the values in a step by step process, or using this one liner method (inline conditional statement) which i was not entirely sure about. After consulting chatGPT, i understood the use of inline conditional statements and the amount of space it could save - though it might not necessarily mean better coding practices. I further did research on how inline conditional statement works. 
 
-<img src="readme1.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
+<img src="images/readme1.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 <img src="readme2.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 <img src="readme3.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 
