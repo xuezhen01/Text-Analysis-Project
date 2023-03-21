@@ -17,7 +17,9 @@ For my code dilemma, I was stuck between trying to sort the dictionary first bas
 
 For Markov Text Synthesis, I made use of the Markov built in functions and ChatGPT to explain to me how it works and how I can implement it. 
 <img src="images/readme5.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
+
 I also encountered the problem where my synthesized output kept returning me none. I then consulted chatGPT to find out the reasons why markov text synthesis could be returning none. 
+
 <img src="images/readme4.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 
 
@@ -29,7 +31,8 @@ In this project, I managed to obtain the top 10 most used terms in the text in a
     school_page = wikipedia.page("Harvard University")
     similarity = text_similarity(babson.content, school_page.content)
 
-For the Markov Text synthesis, i managed to generate 3 different sentences based on the wikipedia page that i was analysing. 
+For the Markov Text synthesis, i managed to generate 3 different sentences based on the wikipedia page that i was analyzing. 
+
 <img src="images/readme6.png" width="400" alt="text clustering" style="display:block; margin:10px auto;"/>
 
 
